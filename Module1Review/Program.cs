@@ -17,7 +17,12 @@
         {
             return length * width;
         }
-        static void Main(string[] args)
+        // Method to calculate area of a square based on side paramater.
+        public static double AreaOfSquare(double side)
+        {
+            return Math.Pow(side,2);
+
+            static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
         }
