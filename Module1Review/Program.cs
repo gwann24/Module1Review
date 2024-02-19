@@ -12,6 +12,11 @@
         {
             return (baselength * height)/2;
         }
+        // Method to calculate area of a rectangle based on length and width paramater.
+        public static double AreaOfRectangle(double length, double width)
+        {
+            return length * width;
+        }
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
