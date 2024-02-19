@@ -1,0 +1,4 @@
+C:\TrueCoders\repos\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrueCoders\repos\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.AssemblyInfoInputs.cache
+C:\TrueCoders\repos\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.AssemblyInfo.cs
+C:\TrueCoders\repos\Module1Review\Module1Review\obj\Debug\net8.0\Module1Review.csproj.CoreCompileInputs.cache

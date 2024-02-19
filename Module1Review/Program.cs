@@ -20,11 +20,29 @@
         // Method to calculate area of a square based on side paramater.
         public static double AreaOfSquare(double side)
         {
-            return Math.Pow(side,2);
+            return Math.Pow(side, 2);
+        }
 
             static void Main(string[] args)
         {
-            //Console.WriteLine("Hello, World!");
+                //Console.WriteLine("Hello, World!");
+                double radius;
+                double baselength;
+                double height;
+                double length;
+                double width;
+                double side;
+
+                int? shape;
+                Console.WriteLine("Select the number of the shape you want to calculate the area for?");
+                Console.WriteLine(" 1 - Circle");
+                Console.WriteLine(" 2 - Triangle");
+                Console.WriteLine(" 3 - Rectangle");
+                Console.WriteLine(" 4 - Square");
+                Console.WriteLine("\nSelection:");
+                shape = Int32.Parse(Console.ReadLine());
+
+                Console.WriteLine(shape);
         }
     }
 }
